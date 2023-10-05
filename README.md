@@ -1,3 +1,1 @@
-﻿https://michaelandrefraniatte.github.io/CornFlake  
-  
-https://github.com/michaelandrefraniatte  
+﻿https://github.com/michaelandrefraniatte
