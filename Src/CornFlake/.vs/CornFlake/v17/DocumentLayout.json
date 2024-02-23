@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Documents\\github\\CornFlake\\Src\\CornFlake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD31786-167E-433E-B52E-8242BC749ED9}|CornFlake\\CornFlake.csproj|c:\\users\\micha\\documents\\github\\cornflake\\src\\cornflake\\cornflake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD31786-167E-433E-B52E-8242BC749ED9}|CornFlake\\CornFlake.csproj|solutionrelative:cornflake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD31786-167E-433E-B52E-8242BC749ED9}|CornFlake\\CornFlake.csproj|C:\\Users\\micha\\Documents\\github\\CornFlake\\Src\\CornFlake\\cornflake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DD31786-167E-433E-B52E-8242BC749ED9}|CornFlake\\CornFlake.csproj|solutionrelative:cornflake\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\github\\CornFlake\\Src\\CornFlake\\CornFlake\\Form1.cs",
+              "RelativeDocumentMoniker": "CornFlake\\Form1.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\github\\CornFlake\\Src\\CornFlake\\CornFlake\\Form1.cs",
+              "RelativeToolTip": "CornFlake\\Form1.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAswFoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T18:26:57.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\github\\CornFlake\\Src\\CornFlake\\CornFlake\\Form1.cs",
+              "RelativeDocumentMoniker": "CornFlake\\Form1.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\github\\CornFlake\\Src\\CornFlake\\CornFlake\\Form1.cs [Design]",
+              "RelativeToolTip": "CornFlake\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T18:26:54.348Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

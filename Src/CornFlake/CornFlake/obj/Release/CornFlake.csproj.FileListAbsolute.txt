@@ -31,6 +31,15 @@ C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\obj\Release\Co
 C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\obj\Release\CornFlake.Properties.Resources.resources
 C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\obj\Release\CornFlake.csproj.GenerateResource.cache
 C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\obj\Release\CornFlake.csproj.CoreCompileInputs.cache
-C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\obj\Release\CornFlake.csproj.CopyComplete
 C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\obj\Release\CornFlake.exe
 C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\obj\Release\CornFlake.pdb
+C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\bin\Release\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\bin\Release\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\bin\Release\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\bin\Release\Microsoft.Web.WebView2.Core.dll
+C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\bin\Release\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\bin\Release\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\bin\Release\Microsoft.Web.WebView2.Core.xml
+C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\bin\Release\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\bin\Release\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\micha\Documents\github\CornFlake\Src\CornFlake\CornFlake\obj\Release\CornFlake.csproj.Up2Date
